@@ -1,2 +1,3 @@
 # Google
-Patika css  Google 1998
+Patika,
+Google 1998 çalışmam.
