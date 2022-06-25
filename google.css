@@ -1,0 +1,55 @@
+.img {
+    text-align:-webkit-center;
+    
+}
+
+
+.arama {
+    text-align:-webkit-center;
+    background-color: #eeeeee;
+    width: 83%;
+    margin-left: 150px;
+    padding-bottom: 3px;
+    
+}
+
+body {
+    padding: 0%;
+}
+
+.flex {
+   display: flex;
+   margin: 0;
+   
+}
+.sol {
+    background-color:#7ee5db ;
+    width: 32%;
+    text-align: center;
+    margin-left: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.orta {
+    background-color:#7ee5db ;
+    padding-left:10px;
+    width: 18%;
+    margin-left: 2px;
+    text-align: center;
+    font-size: medium;
+
+}
+.son {
+    background-color:#7ee5db ;
+    width: 31.5%;
+    padding-left: 10px;
+    margin-left: 2px;
+    text-align: center;
+}
+.w {
+    width: 300px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
